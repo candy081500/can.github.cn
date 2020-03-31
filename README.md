@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+##欢迎来到糖果的专属空间
+我主要欢迎您的小可爱的到来，孙宝贝
 
 You can use the [editor on GitHub](https://github.com/candy081500/can.github.cn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions f
 
 ```markdown
 Syntax highlighted code block
