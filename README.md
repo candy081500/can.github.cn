@@ -1,4 +1,4 @@
-##欢迎来到糖果的专属空间
+## 欢迎来到糖果的专属空间
 我主要欢迎您的小可爱的到来，孙宝贝
 
 You can use the [editor on GitHub](https://github.com/candy081500/can.github.cn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
